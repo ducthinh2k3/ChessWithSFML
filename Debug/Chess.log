@@ -1,0 +1,13 @@
+﻿  Game.cpp
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(49,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(49,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(89,41): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(101,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(101,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(169,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(169,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(196,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(196,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Game.cpp(262,23): warning C4018: '<': signed/unsigned mismatch
+  Chess.vcxproj -> C:\Users\Admin\source\repos\OOP\Game\Debug\Chess.exe
