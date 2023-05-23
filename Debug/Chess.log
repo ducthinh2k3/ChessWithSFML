@@ -1,0 +1,30 @@
+﻿  Bishop.cpp
+  Board.cpp
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(89,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(152,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(152,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(219,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(219,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(245,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(245,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(270,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(272,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(272,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Board.cpp(311,23): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+  King.cpp
+  Knight.cpp
+C:\Users\Admin\source\repos\OOP\Game\Chess\Knight.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+  Moves.cpp
+  Pawn.cpp
+  Piece.cpp
+C:\Users\Admin\source\repos\OOP\Game\Chess\Piece.cpp(47,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\OOP\Game\Chess\Piece.cpp(47,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PieceFactory.cpp
+  Point.cpp
+  Queen.cpp
+  Rook.cpp
+  main.cpp
+  Generating Code...
+  Chess.vcxproj -> C:\Users\Admin\source\repos\OOP\Game\Debug\Chess.exe
